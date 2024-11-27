@@ -5,10 +5,12 @@
   
   notToBe(val) aceita outro valor e retorna true se os dois valores !== são iguais. Se forem iguais, deve lançar um erro  "Equal".
 */
+
 /**
  * @param {string} val
  * @return {Object}
  */
+
 var expect = function (val) {
   return {
     toBe: function (expected) {

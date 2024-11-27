@@ -7,10 +7,12 @@
   decrement() reduz o valor atual em 1 e depois o retorna.
   reset() define o valor atual init e então o retorna.
 */
+
 /**
  * @param {integer} init
  * @return { increment: Function, decrement: Function, reset: Function }
  */
+
 var createCounter = function (init) {
   let current = init;
   return {
