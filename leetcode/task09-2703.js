@@ -1,5 +1,5 @@
 /*
-  Escreva uma função  argumentsLengthque retorne a contagem de argumentos passados a ela.
+  Escreva uma função argumentsLengthque retorne a contagem de argumentos passados a ela.
 */
 
 /**

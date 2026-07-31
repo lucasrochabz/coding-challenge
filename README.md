@@ -2,4 +2,4 @@
 
 Repositório dedicado aos desafios de código.
 
-fazer task09 com reduce
+Task 09 - Refazer com reduce.
